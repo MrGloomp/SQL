@@ -3,3 +3,5 @@ My SQL project and the largest project I worked on during my time in university 
 For this project I had to design and then create a databse in SQL Server which contained information about clients (Customer, Card, Account [Savings or Checking], and Location) as well as information about purchases they made with their cards (Transaction, Location, Shop and Payment).
 After the daabase was done and filled with demo data, we were to write Queries that would fetch specific information from the SQL database.
 As a final step, we had to integrate a programming language (my choice was Python) and use it to access the SQL server and fetch data from it.
+
+I have freshly graduated from university and absolutely would love to pursuit a career as a Full Stack Developer or Database Engineer. Therefore all feedback is most welcome and needed so that I may grow and become better. Feel free to communicate with me via email for any feedback.
